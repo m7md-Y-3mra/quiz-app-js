@@ -17,12 +17,7 @@ An engaging quiz application built with HTML, CSS, and JavaScript. This app feat
 Check out the live demo of the project [here](https://m7md-y-3mra.github.io/quiz-app-js/).
 
 ## Setup Instructions
-1. Clone the repository:
+ Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/interactive-quiz-app.git
+   git clone https://github.com/m7md-Y-3mra/quiz-app-js.git
 
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/interactive-quiz-app.git
-   ```
